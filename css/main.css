@@ -20,7 +20,6 @@ footer{
 .container {
 	margin: 0 auto;
 	color: white;
-	
 }
 .frame{	
 	position: relative;
@@ -43,12 +42,9 @@ footer{
 }
 .st{
     font-size: 100%;  
-    color: #red; 
-	text-align: justify;	
+    color: black; 	
 	text-indent: 20px;
-	position: relative	
-	left: 15%;
-	padding-bottom: 40px;
+	padding-bottom: 10px;
 }
 
 
